@@ -3,4 +3,4 @@ streamlit
 numpy
 Pillow
 ultralytics
-smtplib
+
